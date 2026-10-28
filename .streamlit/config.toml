@@ -1,0 +1,7 @@
+[server]
+address = "localhost"      # only this PC can open the app
+headless = true            # no e-mail prompt on first start; run.bat opens the browser
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
